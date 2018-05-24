@@ -29,6 +29,6 @@ int main()
             s=s+a[i][j];
         }
     }
-    printf("\nProduct=%d",s);
+    printf("\nDig sum=%d",s);
     return 0;
 }
